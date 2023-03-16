@@ -9,9 +9,9 @@
     </div>
     <!-- START - Header Menu - Velocity.V6 -->
 
-  <section class="sticky top-0 z-50 bg-gradient-to-r from-gray-700 to-gray-900">
+  
 
-    <nav class="px-8 lg:px-16 py-6">
+    <div class="px-8 lg:px-16 py-6">
       <div class="flex flex-wrap justify-between items-center mx-auto w-full">
         <a href="https://aidxn.com" class="flex items-center">
           <img src="image/aidxn-logo.svg" loading="eager" class="h-6 mr-3 sm:h-9" alt="Aiden Wood - Gold Coast Web Design and Digital Marketing" />
@@ -106,9 +106,7 @@
       </div>
       <!-- END - Mega Menu - Velocity.V6 -->
       </div>
-    </nav>
-
-  </section>
+    </div>
 
   </header>
 </template>
